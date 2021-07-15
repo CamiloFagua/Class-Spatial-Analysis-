@@ -1,7 +1,7 @@
 # Class-Spatial-Analysis-
 R tutorials of the class spatial analysis  
 
-Presentation of the class
+Presentation of the class:
 Spatial analyses are statistical analysis that seeks to explain spatial data patterns in mathematical 
 and geometric terms. Spatial modelling are the statistical techniques to approximate reality and make 
 spatial predictions. Environmental data is any information that can be used to solve an environmental 
